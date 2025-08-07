@@ -22,3 +22,9 @@
   ansible.builtin.import_role:
     name: common
     tasks_from: deployment
+
+- name: Start and enable roboshop service
+  ansible.builtin.service:
+    name: roboshop
+    state: started
+    enabled: true
