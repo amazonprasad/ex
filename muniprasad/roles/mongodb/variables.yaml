@@ -1,0 +1,11 @@
+
+MONGODB_HOST: mongodb.manacars.shop # submit your host
+REDIS_HOST: redis.manacars.shop
+MYSQL_HOST: mysql.manacars.shop
+RABBITMQ_HOST: rabbitmq.manacars.shop
+CATALOGUE_HOST: catalogue.manacars.shop
+USER_HOST: user.manacars.shop
+CART_HOST: cart.manacars.shop
+SHIPPING_HOST: shipping.manacars.shop
+PAYMENT_HOST: payment.manacars.shop
+DISPATCH_HOST: dispatch.manacars.shop
